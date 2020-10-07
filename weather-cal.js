@@ -24,9 +24,9 @@ const forceImageUpdate = false
 
 /*
  * LAYOUT
- * Decide what elements to show on the widget.
+ * Decide what elements to show on the widget
  * ===========================================
- */
+ */ 
 
 // Set the width of the column, or set to 0 for an automatic width.
 
